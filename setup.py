@@ -35,6 +35,8 @@ setup(name='raptus.article.supersized',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'raptus.article.nesting',
+          'raptus.supersized'
           # -*- Extra requirements: -*-
       ],
       entry_points="""
