@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.0a1-dev (unreleased)
-----------------------
+1.0a1 (2012-09-12)
+------------------
 
-- Package created using templer
-  [Raptus AG]
+* Initial release
+
